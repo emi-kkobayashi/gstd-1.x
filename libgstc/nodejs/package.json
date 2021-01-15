@@ -1,0 +1,46 @@
+{
+  "name": "gstc-nodejs",
+  "version": "0.1.0",
+  "description": "NodeJS GStreamer Daemon Client",
+  "main": "index.js",
+  "scripts": {
+    "check-standard": "standard",
+    "fix-standard": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidgeRun/gstd-1.x.git"
+  },
+  "keywords": [
+    "gstreamer",
+    "nodejs",
+    "media server"
+  ],
+  "author": {
+    "name": "RidgeRun LLC",
+    "email": "support@ridgerun.com",
+    "url": "http://www.ridgerun.com"
+  },
+  "contributors": [
+    {
+      "name": "Luis G. Leon Vega",
+      "email": "luis.leon@ridgerun.com"
+    }
+  ],
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/RidgeRun/gstd-1.x/issues"
+  },
+  "homepage": "https://developer.ridgerun.com/wiki/index.php?title=GStreamer_Daemon",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "standard": "^16.0.3"
+  },
+  "standard": {
+    "env": [
+      "mocha"
+    ],
+    "parser": "babel-eslint"
+  }
+}
