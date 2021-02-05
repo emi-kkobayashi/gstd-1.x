@@ -1,9 +1,10 @@
 edgematrix-stream (0.1.2-1) unstable; urgency=medium
 
   * (Changelog CI) Added Changelog
+  * (Changelog CI) Added Changelog
   * Add tcp class code
   * Add npm building module script
 
- -- Luis Leon <lleon95@gmail.com> Fri, 5 Feb 2021 10:39:42 -0600
+ -- Luis Leon <lleon95@gmail.com> Fri, 5 Feb 2021 10:41:37 -0600
 
 
